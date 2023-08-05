@@ -1,7 +1,7 @@
 {
-  "name": "base-mvc",
+  "name": "final_is2_ramos",
   "version": "1.0.0",
-  "description": "Primer proyecto1 MVC",
+  "description": "Examen Final MVC",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
